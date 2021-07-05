@@ -1,7 +1,7 @@
 # Robot-Map
 This repository is about creating a map for the robot :
 
-Firt thing i start create the html page 
+First thing i start create the html page 
 ![Screenshot (32)](https://user-images.githubusercontent.com/85635520/124506855-2f85c300-ddd5-11eb-815c-84a281e592b6.png)
 
 Then I created a database for the robot map with the name (rmap)
